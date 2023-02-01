@@ -1,0 +1,27 @@
+{
+    "catchAll": {
+        "phrases": [
+            "Извините, непонятно"
+        ]
+    },
+    "fulfillment": {
+        "settings": {
+            "default": {
+                "url": ""
+            },
+            "channels": []
+        },
+        "actions": [
+            {
+                "state": "/newNode_0",
+                "action": "Имя экрана",
+                "color": "#EAEAEA"
+            },
+            {
+                "state": "/newNode_1",
+                "action": "Имя экрана",
+                "color": "#EAEAEA"
+            }
+        ]
+    }
+}

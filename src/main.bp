@@ -1,0 +1,16 @@
+{
+  "positions" : [ {
+    "id" : "/newNode_0",
+    "name" : "col#0",
+    "boundsTo" : "",
+    "actionTitles" : [ ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_1",
+    "name" : "col#1",
+    "actionTitles" : [ null ],
+    "x" : 0,
+    "y" : 0
+  } ]
+}
